@@ -1,0 +1,11 @@
+.header-carousel-item{
+    height: 600px;
+}
+.bg-cover{
+    background-size: cover;
+    background-position: center center;
+}
+.logo{
+    width: 40px;
+    margin-right: 10px;
+}
